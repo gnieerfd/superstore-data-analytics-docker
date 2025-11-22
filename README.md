@@ -5,7 +5,7 @@ Proyek ini adalah simulasi Business Intelligence (BI) modern untuk menganalisis 
 Berbeda dengan analisis Excel biasa, proyek ini dibangun menggunakan **Full-Stack Data Pipeline** mulai dari database, ETL process, hingga visualisasi dashboard.
 
 ## 📊 Dashboard Preview
-dashboard_full.png
+https://github.com/gnieerfd/superstore-data-analytics-docker/blob/0ef2af55c8ded938e6583912c709d6e515e9b619/Dashboard.jpg
 
 ## 🛠️ Tech Stack
 * **Infrastructure:** Docker & Docker Compose
@@ -53,4 +53,5 @@ dashboard_full.png
 
 ---
 **Author:** Gania Rafidah Huwaida (Teknik Komputer Universitas Brawijaya)
+
 
