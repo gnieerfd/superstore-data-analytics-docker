@@ -51,8 +51,12 @@ Berbeda dengan analisis Excel biasa, proyek ini dibangun menggunakan **Full-Stac
 2.  **Lokasi:** Texas dan Ohio adalah pasar dengan performa profit terburuk.
 3.  **Strategi Diskon:** Pemberian diskon di atas **20%** terbukti menjadi penyebab utama kerugian (negative profit).
 
+### 🔒 Security Note
+Untuk tujuan demonstrasi, kredensial database (username/password) ditulis langsung (hardcoded) dalam script.
+Dalam lingkungan produksi (production), kredensial ini sebaiknya disimpan menggunakan **Environment Variables (.env)** agar lebih aman.
 ---
 **Author:** Gania Rafidah Huwaida (Teknik Komputer Universitas Brawijaya)
+
 
 
 
