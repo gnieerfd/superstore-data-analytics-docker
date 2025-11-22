@@ -5,8 +5,7 @@ Proyek ini adalah simulasi Business Intelligence (BI) modern untuk menganalisis 
 Berbeda dengan analisis Excel biasa, proyek ini dibangun menggunakan **Full-Stack Data Pipeline** mulai dari database, ETL process, hingga visualisasi dashboard.
 
 ## 📊 Dashboard Preview
-![Dashboard Metabase](screenshots/dashboard_full.png)
-*(Pastikan kamu rename screenshot dashboard kamu jadi 'dashboard_full.png' dan taruh di folder screenshots)*
+dashboard_full.png
 
 ## 🛠️ Tech Stack
 * **Infrastructure:** Docker & Docker Compose
@@ -54,3 +53,4 @@ Berbeda dengan analisis Excel biasa, proyek ini dibangun menggunakan **Full-Stac
 
 ---
 **Author:** Gania Rafidah Huwaida (Teknik Komputer Universitas Brawijaya)
+
