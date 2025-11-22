@@ -7,6 +7,9 @@ Berbeda dengan analisis Excel biasa, proyek ini dibangun menggunakan **Full-Stac
 ## 📊 Dashboard Preview
 ![Dashboard Metabase](Dashboard.jpg)
 
+## 📄 Full Report
+[Download Laporan Analisis Lengkap (PDF)](Superstore_Analysis_Report.pdf)
+
 ## 🛠️ Tech Stack
 * **Infrastructure:** Docker & Docker Compose
 * **Database:** MySQL 8.0
@@ -56,6 +59,7 @@ Untuk tujuan demonstrasi, kredensial database (username/password) ditulis langsu
 Dalam lingkungan produksi (production), kredensial ini sebaiknya disimpan menggunakan **Environment Variables (.env)** agar lebih aman.
 ---
 **Author:** Gania Rafidah Huwaida (Teknik Komputer Universitas Brawijaya)
+
 
 
 
