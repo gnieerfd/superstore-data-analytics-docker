@@ -5,7 +5,7 @@ Proyek ini adalah simulasi Business Intelligence (BI) modern untuk menganalisis 
 Berbeda dengan analisis Excel biasa, proyek ini dibangun menggunakan **Full-Stack Data Pipeline** mulai dari database, ETL process, hingga visualisasi dashboard.
 
 ## 📊 Dashboard Preview
-https://github.com/gnieerfd/superstore-data-analytics-docker/blob/0ef2af55c8ded938e6583912c709d6e515e9b619/Dashboard.jpg
+![Dashboard Metabase](Dashboard.jpg)
 
 ## 🛠️ Tech Stack
 * **Infrastructure:** Docker & Docker Compose
@@ -23,7 +23,7 @@ https://github.com/gnieerfd/superstore-data-analytics-docker/blob/0ef2af55c8ded9
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-kamu/superstore-data-analytics-docker.git](https://github.com/username-kamu/superstore-data-analytics-docker.git)
+    git clone https://github.com/gnieerfd/superstore-data-analytics-docker.git
     cd superstore-data-analytics-docker
     ```
 
@@ -53,5 +53,6 @@ https://github.com/gnieerfd/superstore-data-analytics-docker/blob/0ef2af55c8ded9
 
 ---
 **Author:** Gania Rafidah Huwaida (Teknik Komputer Universitas Brawijaya)
+
 
 
