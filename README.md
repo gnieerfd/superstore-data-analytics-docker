@@ -57,8 +57,10 @@ Berbeda dengan analisis Excel biasa, proyek ini dibangun menggunakan **Full-Stac
 ### 🔒 Security Note
 Untuk tujuan demonstrasi, kredensial database (username/password) ditulis langsung (hardcoded) dalam script.
 Dalam lingkungan produksi (production), kredensial ini sebaiknya disimpan menggunakan **Environment Variables (.env)** agar lebih aman.
+
 ---
 **Author:** Gania Rafidah Huwaida (Teknik Komputer Universitas Brawijaya)
+
 
 
 
